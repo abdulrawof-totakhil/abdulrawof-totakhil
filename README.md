@@ -1,50 +1,78 @@
-<div align="center">Abdulrawof Totakhil
-Multi-Platform Database Administrator · Oracle DBA · Database Engineering
-Kabul, Afghanistan · Enterprise & Banking Technology
-<p>
-  <a href="https://www.linkedin.com/in/abdulrawof-totakhil"><img src="https://img.shields.io/badge/OPEN%20FOR%20PROJECTS-Let's%20Connect-16A34A?style=for-the-badge" alt="Open for projects — connect on LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Oracle-ACE%20Apprentice-C74634?style=for-the-badge" alt="Oracle ACE Apprentice" />
-  <img src="https://img.shields.io/badge/Oracle-OCP-1E3A5F?style=for-the-badge" alt="Oracle Certified Professional" />
-  <img src="https://img.shields.io/badge/Education-MSCS-334155?style=for-the-badge" alt="Master of Science in Computer Science" />
-</p>Building reliable data platforms for the systems businesses depend on.
-Hands-on experience. Production-minded engineering. Measurable technical work.
-<p>
-  <a href="https://www.linkedin.com/in/abdulrawof-totakhil"><img src="https://img.shields.io/badge/LinkedIn-Connect%20%26%20Collaborate-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="https://dev.to/abdulrawoftotakhil"><img src="https://img.shields.io/badge/DEV-Read%20My%20Articles-111827?style=flat-square&logo=devdotto&logoColor=white" alt="Read my DEV articles" /></a>
-  <a href="https://github.com/abdulrawof-totakhil?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-24292F?style=flat-square&logo=github&logoColor=white" alt="Explore my GitHub repositories" /></a>
-</p></div>The professional behind the profile
-I'm Abdulrawof Totakhil, a Database Administrator in Kabul, Afghanistan, with practical experience in enterprise and banking database environments. My primary specialization is Oracle Database, alongside broader work with Microsoft SQL Server, relational data systems, and database-backed applications.
+<h1 align="center">Abdulrawof Totakhil</h1>
 
-My approach is built on real operational responsibility: modernizing infrastructure, deploying and upgrading database environments, maintaining availability, improving query performance, strengthening security, validating backups, and preparing systems for recovery. I work across both technical implementation and coordination with infrastructure, application, and business teams.
-My focus: Stable databases. Faster queries. Recoverable systems. Secure operations. Clear documentation.
+<h3 align="center">Multi-Platform Database Administrator · Oracle Database Specialist</h3>
 
-Where I bring hands-on value
-Enterprise Database Engineering	Reliability, Performance & Security
-Database installation, configuration, upgrades & patching	High availability, disaster recovery & recovery readiness
-Production support, monitoring & incident troubleshooting	SQL performance analysis, execution plans & tuning
-Test/UAT environments & infrastructure modernization	Backup verification, operational health checks & auditing
-Multi-team delivery, documentation & change control	Linux administration, scripting & DBA automation
+<p align="center"><strong>Kabul, Afghanistan · Enterprise & Banking Database Engineering</strong></p>
 
-
-Technology & platforms: Oracle Database 19c · Oracle AI Database 26ai (hands-on labs and demonstrations) · Microsoft SQL Server · Oracle RAC · ASM · Data Guard · RMAN · Oracle Enterprise Manager 24ai · SQL / PL/SQL · Linux / RHEL · Bash · Python · Oracle Cloud Database Services.
-Experience that goes beyond tutorials
-My work has involved banking database infrastructure upgrades, building and improving database test environments, supporting RAC and Data Guard operations, coordinating disaster recovery infrastructure changes, checking backup and standby readiness, and using performance diagnostics and enterprise monitoring to support dependable database services.
-
-I also share reproducible technical demonstrations, SQL utilities, and lessons from hands-on learning—while keeping confidential employer, customer, and production infrastructure information private.
-Professional credentials
-Oracle ACE Apprentice · Oracle Certified Professional (OCP) · MSc in Computer Science
-
-Additional Oracle Cloud credentials include Oracle Cloud Database Services Professional and Oracle Autonomous Database Professional.
-<div align="center">Open for Projects & Professional Collaboration
-Need a database professional who understands both the technology and the operational responsibility behind it?
-
-I'm open to conversations about database administration, Oracle/SQL troubleshooting, performance optimization, high availability and DR readiness, DBA automation, technical reviews, knowledge sharing, and remote collaboration.
-
-For project inquiries, opportunities, technical articles, and examples of my work:
-<p>
-  <a href="https://www.linkedin.com/in/abdulrawof-totakhil"><img src="https://img.shields.io/badge/LET'S%20WORK%20TOGETHER-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Discuss a project on LinkedIn" /></a>
-  <a href="https://dev.to/abdulrawoftotakhil"><img src="https://img.shields.io/badge/READ%20MY%20WORK-DEV%20Community-111827?style=for-the-badge&logo=devdotto&logoColor=white" alt="Read my technical articles" /></a>
-  <a href="https://github.com/abdulrawof-totakhil?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20CODE-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdulrawof-totakhil"><img src="https://img.shields.io/badge/OPEN_FOR_PROJECTS-LET'S_CONNECT-16A34A?style=for-the-badge" alt="Open for database projects" /></a>
+  <img src="https://img.shields.io/badge/Oracle_ACE-Apprentice-C74634?style=for-the-badge" alt="Oracle ACE Apprentice" />
+  <img src="https://img.shields.io/badge/Oracle-Certified_Professional-0F3558?style=for-the-badge" alt="Oracle Certified Professional" />
 </p>
-Abdulrawof Totakhil | Database Administrator · Oracle DBA · Kabul, Afghanistan
-</div>
+
+<p align="center"><strong>I help build, protect, optimize, and modernize the databases that businesses depend on.</strong></p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdulrawof-totakhil"><img src="https://img.shields.io/badge/LinkedIn-Connect_%26_Collaborate-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn profile" /></a>
+  <a href="https://dev.to/abdulrawoftotakhil"><img src="https://img.shields.io/badge/DEV-Read_Technical_Articles-111827?style=flat-square&amp;logo=devdotto&amp;logoColor=white" alt="DEV technical articles" /></a>
+  <a href="https://github.com/abdulrawof-totakhil?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_My_Work-24292F?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub repositories" /></a>
+</p>
+
+---
+
+## About Me
+
+I'm **Abdulrawof Totakhil**, a **database administrator based in Kabul, Afghanistan**, with hands-on experience supporting **enterprise and banking database infrastructure**.
+
+My primary specialization is **Oracle Database**, complemented by work with **Microsoft SQL Server, relational databases, Linux, and database-backed applications**. My focus spans the database lifecycle: deployment, upgrades, performance optimization, high availability, disaster recovery, security, and automation.
+
+> **My approach:** Reliable systems. Faster queries. Verified recovery. Secure operations. Clear documentation.
+
+## What I Bring to the Table
+
+| Expertise | Hands-on focus |
+| :--- | :--- |
+| **Database Engineering** | Installation, configuration, infrastructure modernization, upgrades, patching, and test/UAT environments |
+| **High Availability & Disaster Recovery** | Oracle RAC, ASM, Data Guard, standby monitoring, RMAN validation, and DR readiness |
+| **Performance & Optimization** | SQL tuning, execution plans, AWR/ASH/ADDM analysis, troubleshooting, and health checks |
+| **Security & Reliability** | Database access controls, auditing, backup verification, incident response, and operational risk awareness |
+| **Automation & Operations** | Oracle Enterprise Manager 24ai, Linux/RHEL, Bash, Python, monitoring, and technical documentation |
+
+## Technologies I Work With
+
+**Database platforms:** Oracle Database 19c · Oracle AI Database 26ai (labs and demonstrations) · Microsoft SQL Server · Relational database systems  
+**High availability and recovery:** Oracle RAC · ASM · Data Guard · RMAN  
+**Performance and operations:** SQL · PL/SQL · AWR · ASH · ADDM · Oracle Enterprise Manager 24ai  
+**Systems and automation:** Linux · Red Hat Enterprise Linux · Bash · Python · Git · Oracle Cloud Database Services
+
+## Experience Beyond the Lab
+
+- **Banking infrastructure:** Participated in database infrastructure modernization and building improved database test environments.
+- **DBA operations:** Hands-on monitoring, patching, health checks, SQL troubleshooting, and performance diagnostics for enterprise systems.
+- **Business continuity:** RAC and Data Guard operations, standby synchronization checks, RMAN verification, and disaster recovery infrastructure coordination.
+- **Knowledge sharing:** Technical articles and reproducible SQL demonstrations—with confidential customer and infrastructure information kept private.
+
+## Professional Credentials
+
+- **Oracle ACE Apprentice**
+- **Oracle Certified Professional (OCP)**
+- **Oracle Cloud Database Services Professional** and **Oracle Autonomous Database Professional**
+- **Master of Science in Computer Science (MSCS)**
+
+---
+
+<h2 align="center">Open for Projects & Collaboration</h2>
+
+<p align="center"><strong>Need a hands-on database professional who understands business-critical operations?</strong></p>
+
+<p align="center">I'm open to <strong>database engineering projects, SQL performance optimization, DBA automation, backup/DR readiness reviews, technical collaboration, and remote opportunities</strong>.</p>
+
+<h3 align="center">Let's build dependable systems.</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdulrawof-totakhil"><img src="https://img.shields.io/badge/DISCUSS_A_PROJECT-LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Discuss a project on LinkedIn" /></a>
+  <a href="https://dev.to/abdulrawoftotakhil"><img src="https://img.shields.io/badge/READ_MY_ARTICLES-DEV_Community-111827?style=for-the-badge&amp;logo=devdotto&amp;logoColor=white" alt="Read my DEV articles" /></a>
+  <a href="https://github.com/abdulrawof-totakhil?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-GitHub-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my GitHub work" /></a>
+</p>
+
+<p align="center"><strong>Abdulrawof Totakhil · Database Administrator · Kabul, Afghanistan</strong></p>
